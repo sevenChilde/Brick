@@ -43,6 +43,7 @@
     "jsList"        : [
     ]
     // "jsList" sets the list of js files in your game.
+    //11
  }
  *
  */
