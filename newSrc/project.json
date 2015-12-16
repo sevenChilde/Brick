@@ -8,13 +8,14 @@
     "renderMode" : 0,
     "engineDir":"frameworks/cocos2d-html5",
 
-    "modules" : ["cocos2d"],
+    "modules" : ["cocos2d", "extensions"],
 
     "jsList" : [
         "src/resource.js",
         "src/app.js",
         "src/biz/GameScene.js",
         "src/biz/MainLayer.js",
-        "src/util/Functions.js"
+        "src/util/Functions.js",
+        "src/biz/MyHeroLayer.js"
     ]
 }
