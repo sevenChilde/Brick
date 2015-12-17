@@ -7,6 +7,7 @@ var GameScene = cc.Scene.extend({
 
         cc.log("GameScene");
         MainLayer.open();
+        MyHeroLayer.open();
     }
 });
 

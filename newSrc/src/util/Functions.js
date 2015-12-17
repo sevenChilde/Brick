@@ -7,7 +7,6 @@
  */
 var HH = HH || {};
 HH.func = {
-
     animate : {
         animation : function(picNum, picName, rateNum) {
             cc.log("picNum = " + picNum + "  picName = " + picName + "  rateNum = " + rateNum);
